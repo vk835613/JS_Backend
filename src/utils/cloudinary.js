@@ -1,5 +1,4 @@
 import { v2 as cloudinary } from 'cloudinary';
-import res from 'express/lib/response';
 import fs from "fs";  
 
 // Configuration
